@@ -1,0 +1,6 @@
+{
+  "name": "Muse AI Studio",
+  "description": "Next-Gen AI Video, Music, Image & Story Creation Studio with Multilingual Support (Bangla, English, Hindi).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
